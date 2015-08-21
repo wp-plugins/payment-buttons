@@ -12,6 +12,13 @@ Easy PayPal Payment Buttons
 
 = Introduction =
 
+Easily add PayPal payment options to your WordPress website.
+
+* Buy Now
+* Add to Cart
+* Donate
+* Subscribe
+
 == Installation ==
 
 = Automatic installation =
@@ -33,3 +40,7 @@ Easy steps to install the plugin:
 *	Upload "payment-buttons" folder/directory to the /wp-content/plugins/ directory
 *	Activate the plugin through the 'Plugins' menu in WordPress.
 *       Go to: Settings > Checkout > PayPal Button  to configure the plugin.
+
+== Screenshots ==
+
+1. Create PayPal button with multiple option
