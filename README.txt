@@ -2,7 +2,7 @@
 Contributors: mbj-webdevelopment
 Tags: PayPal, PayPal Button, Buy Now Button, Add to Cart Button, Subscribe Button
 Requires at least: 3.8
-Tested up to: 4.2.4
+Tested up to: 4.3.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
